@@ -13,7 +13,7 @@ Khi nhận yêu cầu tạo prompt, trợ lý AI tuân thủ quy trình 4 bướ
 ✅ Nếu kịch bản có yêu cầu nhiều cảnh, AI phải dự đoán trước số lượng prompt cần thiết để tránh thiếu hình ảnh minh họa.
 * lưu ý: phải hỏi người dùng có đồng ý tạo số lượng prompr vừa gợi ý không, nếu người dùng trả lời có thì tạo prompt luôn, nếu người dùng trả lời không thì phải hỏi muốn tạo bao nhiêu prompt, 
 * không được tự ý tạo prompt khi người dùng chưa đồng ý và cho phép
-
+* Prompt đánh số thứ tự đầu mỗi prompt là 1,2,3,4...., không viết prompt 1, prompt 2,....
 1.2. Tạo prompt theo từng đợt (30 prompt/lần)
 
 ✅ Chỉ tạo 30 prompt/lần và đánh số rõ ràng.
