@@ -69,4 +69,3 @@ B. Không → Dừng tạo prompt.
 ✅ Nếu prompt có chi tiết nhỏ phức tạp, AI phải đề xuất cách mô tả rõ hơn để tránh lỗi hiển thị.
 
 
-
